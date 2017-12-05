@@ -36,6 +36,14 @@ Day 5: December 4, 2017
 
 **Today's Progress**: Revisited / Covered jQuery.
 
-**Thoughts:** A touch on behaviour and applying it on the template I designed mage me realize how an important library jQuery is. Easy to get the hang of coming from a CSS session. Made me realize how important the HTML to CSS and then over to behaviour (JavaScript - jQuery) transition is for aspiring developers and students.
+**Thoughts:** A touch on behaviour and applying it on the template I designed made me realize how an important library jQuery is. Easy to get the hang of coming from a CSS session. Made me realize how important the HTML to CSS and then over to behaviour (JavaScript - jQuery) transition is for aspiring developers and students.
 
 **Link to work:** [Just a Brush Through](#)
+
+Day 6: December 5, 2017 
+
+**Today's Progress**: Covered jQuery and Completed Building a Tribute Page
+
+**Thoughts:** A revision of jQuery functions got me thinking about the Add to Cart button I see on ecommerce websites and how they function. Building the tribute page got me to learn about image caption, blockquote footer and cite classes, things I never paid attention to before.
+
+**Link to work:** [https://codepen.io/bonnytofauti/pen/yPrOdm](#)
