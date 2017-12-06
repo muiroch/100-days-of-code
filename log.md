@@ -46,4 +46,12 @@ Day 6: December 5, 2017
 
 **Thoughts:** A revision of jQuery functions got me thinking about the Add to Cart button I see on ecommerce websites and how they function. Building the tribute page got me to learn about image caption, blockquote footer and cite classes, things I never paid attention to before.
 
-**Link to work:** [https://codepen.io/bonnytofauti/pen/yPrOdm](#)
+**Link to work:** [Tribute Page on Codepen] https://codepen.io/bonnytofauti/pen/yPrOdm)
+
+Day 7: December 6, 2017 
+
+**Today's Progress**: Covered JavaScript Again
+
+**Thoughts:** The stand in line challenge got me and got me good for that matter. I did not even understand the question and the explanation. Managed it with some help. Queue!!! See you soon, working on you --- nextInLine ---
+
+**Link to work:** [Just a Brush Through](#)
